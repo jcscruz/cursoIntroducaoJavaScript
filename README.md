@@ -2,6 +2,8 @@
 
 Nível: Básico
 Carga Horária 20h
+Data do Início: 25/08/2020
+Data do Término: 01/09/2020
 
 Introdução Ver primeiro vídeo 33min
 Variáveis e Operadores 29min
